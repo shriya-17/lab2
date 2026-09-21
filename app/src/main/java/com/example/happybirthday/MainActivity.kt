@@ -35,7 +35,7 @@ class MainActivity : ComponentActivity() {
                     color = MaterialTheme.colorScheme.background
                 ) {
                     GreetingText(
-                        message = "Happy Birthday Estefania!",
+                        message = "Happy Birthday Shriya!",
                         from = "From Estefania",
                         modifier = Modifier.padding(8.dp)
                     )
